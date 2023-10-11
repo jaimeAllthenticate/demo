@@ -6,3 +6,4 @@ git config --global gpg.format ssh
 git config --global commit.gpgsign true
 git config --global user.signingkey (allthenticate-get-key)
 ```
+then restart terminal
