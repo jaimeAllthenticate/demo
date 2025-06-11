@@ -9,4 +9,6 @@ git config --global user.signingkey ("$GPG_KEY")
 ```
 then restart terminal
 
+Last edited: 06-11-25
+
 
