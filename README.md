@@ -11,4 +11,4 @@ then restart terminal
 
 Last edited: 06-11-25
 
-ther is a better way to log incfds
+
